@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Shadows+Into+Light&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Teko&display=swap');
+
+
+.friday__offer {
+    background: url(../img/friday-background.png) no-repeat;
+    background-size: cover;
+    width: 1400px;
+    height: 700px;
+}
+
+img.relax {
+    width: 650px;
+    height: 600px;
+}
+.friday-offer-menu {
+    background-color: rgba(17,17,17,0.76);
+    width: 500px;
+    height: 650px;
+}
+.image-menu {
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+}
+
+.friday-offer-subtitle {
+    color: orange;
+    font-family: 'Shadow Intro Light';
+    font-size: 14px;
+    text-align: center;
+}
+
+.friday-offer-title {
+    color: white;
+    font-family: 'Teco';
+    font-size: 26px;
+    text-align: center;
+}
